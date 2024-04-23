@@ -11,7 +11,7 @@
     "gecko": {
       "id": "gusbox-dashboard-tab@example.com",
       "strict_min_version": "42.0",
-      "update_url": "https://github.com/hjgode/gusboxdashboard"
+      "update_url": "https://github.com/hjgode/GusboxDashboard"
     }
   },
 
